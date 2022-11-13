@@ -10,10 +10,10 @@
       "iconPath": "icons/Red_Mushroom.png"
     },
     "_javascript": {
-      "iconPath": "icons/Cat_1.png"
+      "iconPath": "icons/Jelly.png"
     },
     "_javascript_test": {
-      "iconPath": "icons/Cat.png"
+      "iconPath": "icons/Pickles.png"
     },
     "_json": {
       "iconPath": "icons/Sunflower.png"
@@ -43,7 +43,7 @@
       "iconPath": "icons/Scroll.png"
     },
     "_license": {
-      "iconPath": "icons/Scroll.png"
+      "iconPath": "icons/Magic_Ink.png"
     },
     "_package": {
       "iconPath": "icons/Bundle_Yellow.png"
@@ -62,6 +62,30 @@
     },
     "_bazel": {
       "iconPath": "icons/Tea_Bush.png"
+    },
+    "_readme": {
+        "iconPath": "icons/Book.png"
+    },
+    "_cpp": {
+        "iconPath": "icons/Cat_1.png"
+    },
+    "_h": {
+        "iconPath": "icons/Hot_Pepper.png"
+    },
+    "_unittests": {
+        "iconPath": "icons/Magnifying_Glass.png"
+    },
+    "_makefile": {
+        "iconPath": "icons/Pickaxe.png"
+    },
+    "_pdf": {
+        "iconPath": "icons/Secret_Note.png"
+    },
+    "_prisma": {
+        "iconPath": "icons/Prismatic_Shard.png"
+    },
+    "_typescript": {
+        "iconPath": "icons/Dog_3.png"
     }
   },
   "file": "_file",
@@ -82,7 +106,13 @@
     "proto": "_proto",
     "thrift": "_thrift",
     "git": "_git",
-    "snap": "_javascript_test"
+    "snap": "_javascript_test",
+    "cpp": "_cpp",
+    "h": "_h",
+    "txt": "_txt",
+    "pdf": "_pdf",
+    "ts": "_typescript",
+    "prisma": "_prisma"
   },
   "fileNames": {
     "license": "_license",
@@ -138,7 +168,10 @@
     "jest.integration.config.js": "_jest",
     "apollo.config.js": "_apollo",
     ".gitignore": "_git",
-    ".graphqlconfig": "_graphql"
+    ".graphqlconfig": "_graphql",
+    "README": "_readme",
+    "unit_tests.h": "_unittests",
+    "Makefile": "_makefile"
   },
   "languageIds": {
     "git": "_git",
@@ -146,6 +179,7 @@
     "typescript": "_typescript",
     "css": "_css",
     "html": "_html",
-    "json": "_json"
+    "json": "_json",
+    "c++": "_cpp"
   }
 }
