@@ -10,13 +10,16 @@
       "iconPath": "icons/Red_Mushroom.png"
     },
     "_javascript": {
-      "iconPath": "icons/Jelly.png"
+      "iconPath": "icons/White_Chicken.png"
     },
     "_javascript_test": {
       "iconPath": "icons/Pickles.png"
     },
     "_json": {
       "iconPath": "icons/Sunflower.png"
+    },
+    "_javascript_react": {
+        "iconPath": "icons/Duck.png"
     },
     "_lock": {
       "iconPath": "icons/Key.png"
@@ -86,12 +89,15 @@
     },
     "_typescript": {
         "iconPath": "icons/Dog_3.png"
+    },
+    "+_typescript_react": {
+        "iconPath": "icons/Dog_1.png"
     }
   },
   "file": "_file",
   "fileExtensions": {
     "js": "_javascript",
-    "jsx": "_javascript",
+    "jsx": "_javascript_react",
     "jpeg": "_image",
     "jpg": "_image",
     "gif": "_image",
@@ -112,6 +118,7 @@
     "txt": "_txt",
     "pdf": "_pdf",
     "ts": "_typescript",
+    "tsx": "_typescript_react",
     "prisma": "_prisma"
   },
   "fileNames": {

@@ -5,9 +5,11 @@ Currently for common front-end web development file types
 
 Version 0.0.8 (10/01/2022)
     - added icons for .cpp, .h, unit_tests.h, and README files
-Version 0.0.8.1 (11/13/2022)
+Version 0.0.9 (11/13/2022)
     - added icon for .prisma and typescript
     - modified icons for javascript and node.js
+Version 0.0.9 (#2) (11/20/2022)
+    - added tsx, jsx, changed js
     
 
 <img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
