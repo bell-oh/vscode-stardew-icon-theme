@@ -90,7 +90,7 @@
     "_typescript": {
         "iconPath": "icons/Dog_3.png"
     },
-    "+_typescript_react": {
+    "_typescript_react": {
         "iconPath": "icons/Dog_1.png"
     }
   },
