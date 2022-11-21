@@ -119,7 +119,8 @@
     "pdf": "_pdf",
     "ts": "_typescript",
     "tsx": "_typescript_react",
-    "prisma": "_prisma"
+    "prisma": "_prisma",
+    "py": "_python"
   },
   "fileNames": {
     "license": "_license",
@@ -187,6 +188,7 @@
     "css": "_css",
     "html": "_html",
     "json": "_json",
-    "c++": "_cpp"
+    "c++": "_cpp",
+    "python": "_python"
   }
 }
