@@ -92,6 +92,9 @@
     },
     "_typescript_react": {
         "iconPath": "icons/Dog_1.png"
+    },
+    "_python": {
+        "iconPath": "icons/Serpent.png"
     }
   },
   "file": "_file",
