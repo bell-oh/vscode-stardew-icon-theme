@@ -1,24 +1,22 @@
 # VSCode Stardew Icon Theme
 
-A Stardew Valley themed product icon pack!
-Currently for common front-end web development file types
+An extended version of klyap's Stardew Valley themed product icon pack. Forked from klyap/vscode-stardew-icon-theme
 
-Version 0.0.8 (10/01/2022)
-    - added icons for .cpp, .h, unit_tests.h, and README files
-Version 0.0.9 (11/13/2022)
-    - added icon for .prisma and typescript
-    - modified icons for javascript and node.js
-Version 0.0.9 (#2) (11/20/2022)
-    - added tsx, jsx, changed js
-    - added django-html
-    - added .py
-Version 0.0.9 (#3) (12/22/2022)
-    - added "schema.prisma"
 Version 0.0.9 (#4) (1/1/2022)
     - .ipynb, .env, .mongodb, .vsix, .gch, .cyl, .txt, .zip, .o
     - prettier.config.cjs
     - tailwind.config.cjs, tailwind.config.js, tailwind.config.ts
-    
+Version 0.0.9 (#3) (12/22/2022)
+    - added "schema.prisma"
+Version 0.0.9 (#2) (11/20/2022)
+    - added tsx, jsx, changed js
+    - added django-html
+    - added .py
+Version 0.0.9 (11/13/2022)
+    - added icon for .prisma and typescript
+    - modified icons for javascript and node.js
+Version 0.0.8 (10/01/2022)
+    - added icons for .cpp, .h, unit_tests.h, and README files  
 
 <img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
 
