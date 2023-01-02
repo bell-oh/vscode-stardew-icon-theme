@@ -43,7 +43,7 @@
       "iconPath": "icons/Book.png"
     },
     "_babel": {
-      "iconPath": "icons/Scroll.png"
+      "iconPath": "icons/Leek.png"
     },
     "_license": {
       "iconPath": "icons/Magic_Ink.png"
@@ -64,7 +64,7 @@
       "iconPath": "icons/Apple.png"
     },
     "_bazel": {
-      "iconPath": "icons/Tea_Bush.png"
+      "iconPath": "icons/Bok_Choy.png"
     },
     "_readme": {
         "iconPath": "icons/Book.png"
@@ -95,6 +95,36 @@
     },
     "_python": {
         "iconPath": "icons/Serpent.png"
+    },
+    "_django_html": {
+        "iconPath": "icons/autumn/Purple_Mushroom.png"
+    },
+    "_mongodb": {
+        "iconPath": "icons/Tea_Bush.png"
+    },
+    "_env": {
+        "iconPath": "icons/'Little_Tree'.png"
+    },
+    "_vsix": {
+        "iconPath": "icons/Quartz.png"
+    },
+    "_tailwind": {
+        "iconPath": "icons/Duck_Feather.png"
+    },
+    "_o": {
+        "iconPath": "icons/Orange.png"
+    },
+    "_cyl": {
+        "iconPath": "icons/Battery_Pack.png"
+    },
+    "_txt": {
+        "iconPath": "icons/Scroll.png"
+    },
+    "_zip": {
+        "iconPath": "icons/Omni_Geode.png"
+    },
+    "_coffee": {
+        "iconPath": "icons/Coffee_Bean.png"
     }
   },
   "file": "_file",
@@ -118,12 +148,22 @@
     "snap": "_javascript_test",
     "cpp": "_cpp",
     "h": "_h",
+    "hpp": "_h",
+    "gch": "_h",
     "txt": "_txt",
     "pdf": "_pdf",
     "ts": "_typescript",
     "tsx": "_typescript_react",
     "prisma": "_prisma",
-    "py": "_python"
+    "py": "_python",
+    "ipynb": "_python",
+    "mongodb": "_mongodb",
+    "env": "_env",
+    "vsix": "_vsix",
+    "o": "_o",
+    "cyl": "_cyl",
+    "zip": "_zip",
+    "coffee": "_coffee"
   },
   "fileNames": {
     "license": "_license",
@@ -157,6 +197,7 @@
     "prettierrc.yaml": "_prettier",
     "prettier.config.js": "_prettier",
     "prettier.config.ts": "_prettier",
+    "prettier.config.cjs": "_prettier",
     "prettier.config.coffee": "_prettier",
     ".prettierignore": "_prettier",
     ".prettierrc": "_prettier",
@@ -182,7 +223,11 @@
     ".graphqlconfig": "_graphql",
     "README": "_readme",
     "unit_tests.h": "_unittests",
-    "Makefile": "_makefile"
+    "Makefile": "_makefile",
+    "schema.prisma": "_prisma",
+    "tailwind.config.cjs": "_tailwind",
+    "tailwind.config.js": "_tailwind",
+    "tailwind.config.ts": "_tailwind"
   },
   "languageIds": {
     "git": "_git",
@@ -192,6 +237,7 @@
     "html": "_html",
     "json": "_json",
     "c++": "_cpp",
-    "python": "_python"
+    "python": "_python",
+    "django-html": "_django_html"
   }
 }

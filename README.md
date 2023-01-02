@@ -10,6 +10,14 @@ Version 0.0.9 (11/13/2022)
     - modified icons for javascript and node.js
 Version 0.0.9 (#2) (11/20/2022)
     - added tsx, jsx, changed js
+    - added django-html
+    - added .py
+Version 0.0.9 (#3) (12/22/2022)
+    - added "schema.prisma"
+Version 0.0.9 (#4) (1/1/2022)
+    - .ipynb, .env, .mongodb, .vsix, .gch, .cyl, .txt, .zip, .o
+    - prettier.config.cjs
+    - tailwind.config.cjs, tailwind.config.js, tailwind.config.ts
     
 
 <img width="165" alt="Screen Shot 2020-08-31 at 8 26 01 PM" src="https://user-images.githubusercontent.com/7905522/91792254-f5063500-ebc9-11ea-9baa-560540a92613.png">
